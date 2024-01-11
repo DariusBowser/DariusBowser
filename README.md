@@ -8,6 +8,8 @@
 - 👀 I’m interested in … **anything tech related, sports related, science related and history. I love reading, capturing memories, fixing things, and learning how things work.**
 
 - 🌱 I’m currently learning … **JavaScript, Python, React and the foundations of Software development. I also have a deep desire to continue to expand my knowledge on TypeScript, Django, and generative AI.**
+  
+- 🔭 I'm currently working on ... **Python Marketplace App**
 
 - 💞️ I’m looking to collaborate on ... **anything. Receiving input, sharing ideas, working on projects together is always fun, educational and useful.**
 
