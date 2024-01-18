@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning … **JavaScript, Python, React and the foundations of Software development. I also have a deep desire to continue to expand my knowledge on TypeScript, Django, and generative AI.**
   
-- 🔭 I'm currently working on ... **Python Marketplace App**
+- 🔭 I'm currently working on ... **Client-blog-app**
 
 - 💞️ I’m looking to collaborate on ... **anything. Receiving input, sharing ideas, working on projects together is always fun, educational and useful.**
 
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariusbowser&show_icons=true&locale=en&layout=compact" alt="dariusbowser" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariusbowser&show_icons=true&locale=en" alt="dariusbowser" /></p>
+
