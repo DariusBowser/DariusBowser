@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning … **JavaScript, Python, React and the foundations of Software development. I also have a deep desire to continue to expand my knowledge on TypeScript, Django, and generative AI.**
   
-- 🔭 I'm currently working on ... **Client-blog-app**
+- 🔭 I'm currently working on ... **react-blog-app**
 
 - 💞️ I’m looking to collaborate on ... **anything. Receiving input, sharing ideas, working on projects together is always fun, educational and useful.**
 
 - 📫 How to reach me **sadariusbowser@gmail.com**
 
-- ⚡ Fun fact ... **I am 6'10**
+- ⚡ Fun fact ... **I'm almost 7 ft tall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
