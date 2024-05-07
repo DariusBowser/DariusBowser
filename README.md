@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning … **JavaScript, Python, React and the foundations of Software development. I also have a deep desire to continue to expand my knowledge on TypeScript, Django, and generative AI.**
   
-- 🔭 I'm currently working on ... **react-typescript-app**
+- 🔭 I'm currently working on ... **python-homehealth**
 
 - 💞️ I’m looking to collaborate on ... **anything. Receiving input, sharing ideas, working on projects together is always fun, educational and useful.**
 
